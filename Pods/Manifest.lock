@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.5)
+  - KMPlaceholderTextView (1.4.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - KMPlaceholderTextView (~> 1.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - KMPlaceholderTextView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+
+PODFILE CHECKSUM: 7d8b4376c5f5fba4545ac47b08b3151b6e9300c3
+
+COCOAPODS: 1.7.4
